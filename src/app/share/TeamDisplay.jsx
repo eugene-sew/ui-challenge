@@ -60,7 +60,7 @@ const teamConfigurations = [
     competitors: {
       competitor_1: "Karl Gracer Dela",
       competitor_2: "Agbozo Theodore",
-      comp1_img: "/assets/interns/karl.jpg",
+      comp1_img: "/assets/interns/karl.jpeg",
       comp2_img: "/assets/interns/teo.jpg",
     },
   },
