@@ -41,7 +41,7 @@ const teamConfigurations = [
       competitor_1: "Emmanuel Tokoli",
       competitor_2: "Emmanuel Joe Letsu",
       comp1_img: "/assets/interns/etk.jpg",
-      comp2_img: "/assets/interns/joe",
+      comp2_img: "/assets/interns/joe.jpg",
     },
   },
   {
