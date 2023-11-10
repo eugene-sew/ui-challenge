@@ -38,7 +38,7 @@ const ChallengeDetails = () => {
           name="challengeId"
           value={challengeId}
           onChange={handleChange}
-          className="mt-1 p-2 border rounded-md w-full"
+          className="mt-1 p-2 border rounded-md w-full text-gray-700"
         />
       </div>
 
@@ -54,6 +54,7 @@ const ChallengeDetails = () => {
           <h3 className="text-lg font-semibold text-gray-700 mb-4">
             {selectedChallenge.problem}
           </h3>
+          <h1 className="underline font-medium">Pain Points</h1>
           <ul className="list-disc list-inside">
             {selectedChallenge.pain_points.map((point, index) => (
               <li
